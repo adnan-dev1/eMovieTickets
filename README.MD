@@ -31,3 +31,10 @@ A beautifully designed e-commerce movies app using ASP.NET MVC 5, Entity framewo
 * MS SQL Server Express 2019
 
 * IIS
+
+### Open the Project
+
+* Clone this repository
+* Open the .sln file using visual studio
+* From toolbar click on run icon.
+* The browser will open automatically on localhost:5001
